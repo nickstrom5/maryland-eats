@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "version": "2026-11-04.1",
+ "records_through": "2026-11-04",
+ "published": "2026-11-04T10:37:25Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-annapolis-central": {
+   "path": "detail-annapolis-central-d708de085127.json",
+   "sha256": "d708de08512722d4559d97837e44f4e99bb63168d8f2dacebad673e1be591997",
+   "bytes": 325871,
+   "rows": 2796
+  },
+  "detail-baltimore": {
+   "path": "detail-baltimore-8101931b79f4.json",
+   "sha256": "8101931b79f48ae4509eeb758f7c938fa5f2f313436c9e982bdffa3e470dac40",
+   "bytes": 217871,
+   "rows": 3054
+  },
+  "detail-capital-region": {
+   "path": "detail-capital-region-2f8cfe4faae3.json",
+   "sha256": "2f8cfe4faae39158b54382a3245b005a58e57454a7e2bcd6f433a3e0bfd447a2",
+   "bytes": 898171,
+   "rows": 4384
+  },
+  "detail-eastern-shore": {
+   "path": "detail-eastern-shore-b2301a018382.json",
+   "sha256": "b2301a0183826db2e43c2a2c071281a1831ef14be5c6e53a4e561e69b372ac02",
+   "bytes": 85336,
+   "rows": 1335
+  },
+  "detail-southern-maryland": {
+   "path": "detail-southern-maryland-568ddb5e0613.json",
+   "sha256": "568ddb5e0613725c7fb7f59641ffdacf2201fb55a3e52be7fda0f90b76fe0893",
+   "bytes": 43430,
+   "rows": 622
+  },
+  "detail-western-maryland": {
+   "path": "detail-western-maryland-822dd43e87b6.json",
+   "sha256": "822dd43e87b666a6a2e96900ccdd23af040f170f309f76bd94a2e48e4c56fff2",
+   "bytes": 36935,
+   "rows": 571
+  },
+  "places": {
+   "path": "places-7f8a1e1727bb.json",
+   "sha256": "7f8a1e1727bb088543ab9005b9b2ed0c23eca33b716a8f2fc4d521b4fd20c354",
+   "bytes": 2133565,
+   "rows": 12955
+  }
+ },
+ "counts": {
+  "places": 12955,
+  "files": 7,
+  "bytes": 3741179,
+  "restaurants": 12501
+ },
+ "previous": {
+  "version": "2026-11-03.1",
+  "files": {
+   "detail-annapolis-central": "detail-annapolis-central-e207b25b7d56.json",
+   "detail-baltimore": "detail-baltimore-64a089c1807b.json",
+   "detail-capital-region": "detail-capital-region-c13b9438a23d.json",
+   "detail-eastern-shore": "detail-eastern-shore-88b860344f6b.json",
+   "detail-southern-maryland": "detail-southern-maryland-050729c012f4.json",
+   "detail-western-maryland": "detail-western-maryland-23c971be552c.json",
+   "places": "places-ba6ce0ecc067.json"
+  }
+ }
+}

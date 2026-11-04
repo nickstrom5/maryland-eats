@@ -1,0 +1,21 @@
+{
+  "name": "Maryland Eats",
+  "short_name": "MD Eats",
+  "description": "Crab cakes, pit beef & oysters: a guide to 12,501 Maryland restaurants.",
+  "start_url": "/maryland-eats/",
+  "display": "browser",
+  "background_color": "#faf6ec",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/maryland-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/maryland-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

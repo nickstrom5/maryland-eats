@@ -1,0 +1,180 @@
+{
+ "generated": "2026-11-04",
+ "domain": "https://nickstrom5.github.io/maryland-eats",
+ "restaurants": 12501,
+ "places_incl_hidden": 12955,
+ "towns": 366,
+ "counties": 24,
+ "on_an_official_list": 3343,
+ "hand_checked_on_a_guide": 51,
+ "serves_alcohol_state_license": 750,
+ "guide_crabs": 11,
+ "guide_pitbeef": 3,
+ "guide_oysters": 8,
+ "guide_pupusas": 4,
+ "guide_ethiopian": 4,
+ "guide_korean": 4,
+ "guide_sweets": 16,
+ "oldest": 2,
+ "honors": 4,
+ "michelin": {},
+ "james_beard": 4,
+ "americas_classics": 0,
+ "permits_updated": "2026-11-03",
+ "city_pages": {
+  "Baltimore": {
+   "restaurants": 1574,
+   "listed": 20,
+   "crabs": 8,
+   "pitbeef": 1,
+   "oysters": 3,
+   "pupusas": 0,
+   "ethiopian": 0,
+   "korean": 0,
+   "sweets": 5,
+   "hon": 3,
+   "oldest": 1
+  },
+  "Ellicott City": {
+   "restaurants": 149,
+   "listed": 4,
+   "crabs": 0,
+   "pitbeef": 0,
+   "oysters": 0,
+   "pupusas": 0,
+   "ethiopian": 0,
+   "korean": 4,
+   "sweets": 0,
+   "hon": 0,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Silver Spring": 3,
+  "Annapolis": 2,
+  "St. Michaels": 2,
+  "Bethesda": 1,
+  "Rockville": 0,
+  "Frederick": 0,
+  "Ocean City": 0,
+  "Lutherville-Timonium": 2,
+  "Parkville": 2,
+  "Dundalk": 2,
+  "Glen Burnie": 1,
+  "Easton": 1,
+  "Hyattsville": 1,
+  "Takoma Park": 1,
+  "Columbia": 0
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 1020221,
+   "gzip": 203611
+  },
+  "data/detail-allegany-county.json": {
+   "raw": 8163,
+   "gzip": 2297
+  },
+  "data/detail-anne-arundel-county.json": {
+   "raw": 211920,
+   "gzip": 23655
+  },
+  "data/detail-baltimore-city.json": {
+   "raw": 96730,
+   "gzip": 21701
+  },
+  "data/detail-baltimore-county.json": {
+   "raw": 92968,
+   "gzip": 22801
+  },
+  "data/detail-calvert-county.json": {
+   "raw": 9398,
+   "gzip": 2596
+  },
+  "data/detail-caroline-county.json": {
+   "raw": 1917,
+   "gzip": 666
+  },
+  "data/detail-carroll-county.json": {
+   "raw": 18359,
+   "gzip": 4874
+  },
+  "data/detail-cecil-county.json": {
+   "raw": 10117,
+   "gzip": 2756
+  },
+  "data/detail-charles-county.json": {
+   "raw": 16121,
+   "gzip": 4200
+  },
+  "data/detail-dorchester-county.json": {
+   "raw": 3275,
+   "gzip": 990
+  },
+  "data/detail-frederick-county.json": {
+   "raw": 32880,
+   "gzip": 8415
+  },
+  "data/detail-garrett-county.json": {
+   "raw": 4240,
+   "gzip": 1269
+  },
+  "data/detail-harford-county.json": {
+   "raw": 25729,
+   "gzip": 6758
+  },
+  "data/detail-howard-county.json": {
+   "raw": 35255,
+   "gzip": 9055
+  },
+  "data/detail-kent-county.json": {
+   "raw": 2598,
+   "gzip": 842
+  },
+  "data/detail-montgomery-county.json": {
+   "raw": 570008,
+   "gzip": 56803
+  },
+  "data/detail-prince-georges-county.json": {
+   "raw": 85215,
+   "gzip": 20196
+  },
+  "data/detail-queen-annes-county.json": {
+   "raw": 6307,
+   "gzip": 1890
+  },
+  "data/detail-somerset-county.json": {
+   "raw": 2133,
+   "gzip": 718
+  },
+  "data/detail-st-marys-county.json": {
+   "raw": 12891,
+   "gzip": 3399
+  },
+  "data/detail-talbot-county.json": {
+   "raw": 7944,
+   "gzip": 2332
+  },
+  "data/detail-washington-county.json": {
+   "raw": 19477,
+   "gzip": 5119
+  },
+  "data/detail-wicomico-county.json": {
+   "raw": 13657,
+   "gzip": 3776
+  },
+  "data/detail-worcester-county.json": {
+   "raw": 25897,
+   "gzip": 6459
+  },
+  "data/ids.json": {
+   "raw": 162541,
+   "gzip": 94382
+  },
+  "data/md_shapes.json": {
+   "raw": 126913,
+   "gzip": 29075
+  }
+ }
+}
