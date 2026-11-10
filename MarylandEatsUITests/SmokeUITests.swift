@@ -236,10 +236,12 @@ final class SmokeUITests: XCTestCase {
         waitFor(app.navigationBars["Crab Cakes"], 5, "a Home card opens its guide on iPad")
         XCUIDevice.shared.orientation = .landscapeLeft     // all three columns
         Thread.sleep(forTimeInterval: 1.5)
-        for g in ["James Beard Honors", "Baltimore Pit Beef", "Crab Cakes & Crab Houses", "All Restaurants"] {
+        // (sidebar name, navigation bar title: a long guide title has a short bar title, Guide.navTitle)
+        for (g, bar) in [("James Beard Honors", "Honors"), ("Baltimore Pit Beef", "Baltimore Pit Beef"), ("Crab Cakes & Crab Houses", "Crab Cakes"),
+                         ("All Restaurants", "All Restaurants")] {
             let item = sidebarItem(g)
             waitFor(item, 5, "sidebar \(g)"); item.tap()
-            waitFor(app.navigationBars[g], 5, "\(g) list")
+            waitFor(app.navigationBars[bar], 5, "\(g) list")
         }
         let search = app.searchFields.firstMatch
         if !search.exists { app.swipeDown() }
